@@ -51,10 +51,9 @@ contain verified transaction, units-sold, revenue, cost, or profit data.
   border: 2 px soild black;
   margin: 10 px;
   padding: 15 px;
-  background-color: lightgray;
   width: 300 px;
   ">
-  <h3><c>Price × Number of Reviews</h3></c>
+  <h3>Price × Number of Reviews</h3>
 </div>
 
 
