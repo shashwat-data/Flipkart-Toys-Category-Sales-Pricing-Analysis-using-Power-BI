@@ -1,6 +1,6 @@
 # Flipkart-Toys-Category-Sales-Pricing-Analysis-using-Power-BI
 Flipkart Toy Market Analysis Dashboard
-<n>Project type: Business Intelligence | E-commerce Analytics |
+<b>Project type: Business Intelligence | E-commerce Analytics |
 Market Research
 Tools: Microsoft Power BI, Power Query, DAX
 Dataset: Web-scraped Flipkart toy product data
