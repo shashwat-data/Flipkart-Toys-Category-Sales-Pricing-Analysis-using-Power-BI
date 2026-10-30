@@ -27,24 +27,36 @@ contain verified transaction, units-sold, revenue, cost, or profit data.
 
 
 ## Dashboard Preview
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/999e1b42-383e-4148-bd3e-f6d390961ccc" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/434b8fee-421d-4133-a21d-8d6220fadb93" />
+<img width="1298" height="730" alt="image" src="https://github.com/user-attachments/assets/72d5ae2d-699c-46ba-bef6-1addb43dcb34" />
+<img width="1297" height="730" alt="image" src="https://github.com/user-attachments/assets/939c6a59-0cfd-43dd-9603-eb432e3788fd" />
+<img width="1296" height="730" alt="image" src="https://github.com/user-attachments/assets/9b4b3afe-7c8f-46fe-a564-0eecc65ef28e" />
+
+
 
 
 
 ## Methodology
 <p>The analysis uses the following fields from the dataset:
 <ul>
-- <li>Product category and sub-category</li>
-- <li>Product price</li>
-- <li>Number of customer reviews</li>
-- <li>Product listing / product count</li>
+    <li>Product category and sub-category</li>
+  <li>Product price</li>
+  <li>Number of customer reviews</li>
+  <li>Product listing / product count</li>
 </ul>
 
-Important metric definition
-The original dashboard calculated:
+## Important metric definition
+<p>The original dashboard calculated:
 
-Price × Number of Reviews
+<div style="
+  border: 2 px soild black;
+  margin: 10 px;
+  padding: 15 px;
+  background-color: lightgray;
+  width: 300 px;
+  ">
+  <h3><c>Price × Number of Reviews</h3></c>
+</div>
+
 
 This value is not actual sales or revenue. It is a simple
 price-weighted review proxy. It is affected by differences in review
