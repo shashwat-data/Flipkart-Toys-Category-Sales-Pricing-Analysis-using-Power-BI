@@ -138,3 +138,20 @@ lead in the calculated index.
 These findings can guide further market research, but they are not
 sufficient on their own to establish actual sales performance or
 profitability.
+
+Repository Structure
+Flipkart-Toy-Market-Analysis/
+│
+├── README.md
+├── assets/
+│   └── dashboard.png
+└── powerbi/
+    └── Flipkart_Toy_Sales_Dashboard.pbix
+How to Use
+1. Download or clone this repository.
+2. Open the .pbix file in Microsoft Power BI Desktop.
+3. If prompted, reconnect the dataset or update the source path.
+4. Explore the dashboard pages and category filter.
+Author: Shashwat Singh
+Project focus: Power BI dashboarding, e-commerce data analysis, and
+business intelligence
