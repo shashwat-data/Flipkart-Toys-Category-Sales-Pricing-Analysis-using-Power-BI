@@ -4,7 +4,7 @@ Market Research
 <p><b>Tools:</b> Microsoft Power BI, Power Query, DAX
 <p><b>Dataset:</b> Web-scraped Flipkart toy product data
 
-##Project Overview
+## Project Overview
 <p>This project explores a web-scraped dataset of toys listed on Flipkart.
 The dashboard compares toy categories and sub-categories using product
 availability, listed prices, customer reviews, and a review-based sales
@@ -13,25 +13,34 @@ proxy.
 <p>The goal is to help sellers explore category-level patterns and identify
 areas that may deserve further market research. The dataset does not
 contain verified transaction, units-sold, revenue, cost, or profit data.
-##<p>Business Questions</p>
-- Which toy categories contain the most listed products?
-- Which categories receive the highest number of customer reviews?
-- How do listed prices and review counts vary across categories?
-- Which categories show a relatively high price-weighted review index?
-- What areas could sellers investigate further before making inventory
-  decisions?
-Dashboard Preview
+
+  
+## Business Questions
+<ul>
+  <li>Which toy categories contain the most listed products?</li>
+  <li>Which categories receive the highest number of customer reviews?</li>
+  <li>How do listed prices and review counts vary across categories?</li>
+  <li>Which categories show a relatively high price-weighted review index?</li>
+  <li>What areas could sellers investigate further before making inventory
+  decisions?</li>
+</ul>
+
+
+## Dashboard Preview
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/999e1b42-383e-4148-bd3e-f6d390961ccc" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/434b8fee-421d-4133-a21d-8d6220fadb93" />
 
 
 
-Methodology
-The analysis uses the following fields from the dataset:
-- Product category and sub-category
-- Product price
-- Number of customer reviews
-- Product listing / product count
+## Methodology
+<p>The analysis uses the following fields from the dataset:
+<ul>
+- <li>Product category and sub-category</li>
+- <li>Product price</li>
+- <li>Number of customer reviews</li>
+- <li>Product listing / product count</li>
+</ul>
+
 Important metric definition
 The original dashboard calculated:
 
